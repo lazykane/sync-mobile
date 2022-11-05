@@ -2,8 +2,8 @@
 local sex = game.GetService("StarterGUI")
 wait(2)
 sex:SetCore "SendNotification", {
-Tittle = Changelogs
-Text = Nothing
-Icon = rbxassetid/0
+Tittle = "Changelogs"
+Text = "Nothing"
+Icon = "rbxassetid://11469827003"
 Duration = 5
 })
